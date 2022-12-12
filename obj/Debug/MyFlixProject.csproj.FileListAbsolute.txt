@@ -1,0 +1,11 @@
+C:\Users\jpete\Desktop\MyFlixProject\bin\Debug\MyFlixProject.exe.config
+C:\Users\jpete\Desktop\MyFlixProject\bin\Debug\MyFlixProject.exe
+C:\Users\jpete\Desktop\MyFlixProject\bin\Debug\MyFlixProject.pdb
+C:\Users\jpete\Desktop\MyFlixProject\obj\Debug\MyFlixProject.csproj.AssemblyReference.cache
+C:\Users\jpete\Desktop\MyFlixProject\obj\Debug\MyFlixProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpete\Desktop\MyFlixProject\obj\Debug\MyFlixProject.Form1.resources
+C:\Users\jpete\Desktop\MyFlixProject\obj\Debug\MyFlixProject.Properties.Resources.resources
+C:\Users\jpete\Desktop\MyFlixProject\obj\Debug\MyFlixProject.csproj.GenerateResource.cache
+C:\Users\jpete\Desktop\MyFlixProject\obj\Debug\MyFlixProject.csproj.CoreCompileInputs.cache
+C:\Users\jpete\Desktop\MyFlixProject\obj\Debug\MyFlixProject.exe
+C:\Users\jpete\Desktop\MyFlixProject\obj\Debug\MyFlixProject.pdb
